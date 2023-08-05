@@ -1,0 +1,25 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [18.721, 42.367]
+      },
+      "properties": {
+        "ID_MTA": 39,
+        "Date_BC_AD": "1350 BC",
+        "Period": "Late Bronze Age",
+        "Culture": "Illyrian",
+        "Location": "Velika Gruda Montenegro",
+        "Ancient_Location": "Illyria",
+        "Modern_Location": "Montenegro",
+        "Genetic_Distance": 10.5,
+        "Sample_ID": "I13777",
+        "Percent_Match": 98,
+        "DNA_Info": "mtDNA: U5a2d\nY-DNA: J2b2a1a1a1~"
+      }
+    }
+  ]
+}
